@@ -1,5 +1,0 @@
-min_value: 0
-max_values: [50, 50, 50, 50, 50, 50, 50]
-repeat: 1000000
-top_k: 100
-max_copy: 100
