@@ -1,0 +1,16 @@
+EPA biosynthesis pathway
+a:MaElo16
+b:PtDes9
+c:FmDes12
+d:IgElo9
+e:CcDes8
+f:MaDes5
+g:PaDes17
+h: EPA
+
+lycopene biosynthesis pathway
+a: IDI
+b: CrtE
+c: CrtB
+d: CrtI
+e: lycopene

@@ -1,0 +1,5 @@
+min_values: [3, 3, 3, 3, 3, 3, 3]
+max_values: [33, 7, 20, 20, 7, 7, 7]
+repeat: 1000000
+top_k: 10
+max_copy: 85
